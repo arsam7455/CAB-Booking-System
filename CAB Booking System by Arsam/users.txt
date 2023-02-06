@@ -1,5 +1,0 @@
-myname|123|name lname|karism@akjsk.com|What was your childhood nickname?|tesd
-kkak|kkak|kkak|kkak@gmail.com|What was your childhood nickname?|kkak
-user1234|userpass|user name|user@umail.com|What is your favorite movie?|Prestige
-Test11|Test11|Test11|test@test.com|What is your favorite movie?|na
-Arsam|@123|Mohd Arsam Khan|arsam7455@gmail.com|What is your favorite movie?|Martian
